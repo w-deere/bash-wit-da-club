@@ -5,7 +5,7 @@ something branches
 ## This is a subtitle 
 uiu
 Run this command to get starter 
-'''sh
+'''shb ih
 pip install -r requirments.txt
 '''
 kjgkjgkj
